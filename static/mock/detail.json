@@ -1,0 +1,29 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "北京故宫大门票(AAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/wugc/p123/201211/19/a2045d091f02b25493835fbb.png_710x360_cc503e47.png",
+    "gallaryImgs": ["http://img1.qunarzz.com/wugc/p123/201211/19/a2045d091f02b25493835fbb.png_710x360_cc503e47.png", 
+      "http://img1.qunarzz.com/wugc/p180/201306/16/7f08e81624346b1693835fbb.jpg_710x360_73786ab9.jpg",
+      "http://img1.qunarzz.com/sight/p0/1410/e3/73da8d3e19cdc41c1932d4fcd22ec792.water.jpg_710x360_6029c0c3.jpg",
+      "https://imgs.qunarzz.com/p/tts6/1808/f1/67295fb107711502.jpg_r_390x260x90_31c92ad9.jpg",
+      "https://imgs.qunarzz.com/vs_ceph_vs_tts/f466d6f4-c3ff-4c55-ac39-26b05f9af8be.jpg_r_390x260x90_dd721f4e.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+        }]
+      }, {
+        "title": "学生票"
+      }, {
+        "title": "儿童票"
+      }, {
+        "title": "特惠票"
+      }]
+  }
+}
